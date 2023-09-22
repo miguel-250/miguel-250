@@ -1,6 +1,6 @@
 - 👋 Hi, I´m Miguel Zayas.
 - 👀 I’m interested in Flutter, Dart, Latex, IoT and AR.
-- 📱 I’m currently development with Flutter.
+- 📱  I’m currently development with Flutter.
 - 🌱 I’m currently learning NodeJS and NestJS.
 - 💬 Ask me about this languages:
 
