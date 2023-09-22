@@ -3,8 +3,7 @@
 - 👀 I’m interested in Flutter, Dart, IoT and AR.
 - 🌱 I’m currently development with Flutter.
 - 🌱 I’m currently learning NodeJS and NestJS.
-- 💬 Ask me about this technologies:
-  <img src="{https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white}" />
+- 💬 Ask me about this technologies.
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
