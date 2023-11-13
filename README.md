@@ -1,7 +1,7 @@
-- 👋 Hi, I´m Miguel Zayas.
-- 👀 I’m interested in Flutter, Dart, Latex, IoT, AR, Arduino and ESP.
-- ⚙️ I’m currently development with Flutter.
-- 🌱 I’m currently learning NodeJS.
+- 👋 Hi, I´m Miguel Zayas
+- 👀 I’m interested in Flutter, Dart, Latex, IoT, AR, Arduino and ESP
+- ⚙️ I’m currently development with Flutter
+- 🌱 I’m currently learning NodeJS
 - 💬 Ask me about this languages:
 
 ><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> <img src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white" />
